@@ -26,14 +26,15 @@ I'm Aditi.
 - 💬 Ask me about my project.
 - 📫 How to reach me: I'm omnipresent. 🤓 (Just kidding! Feel free to connect through the platforms listed above.)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like listenin to K-pop music.
+- ⚡ Fun fact: I like listening to K-pop music.
 
 I like to work with Python, especially using Jupyter notebook.<br>
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=booktrackerGirl)
 
-Learning to use Github a bit. How I have contributed so far? <br>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=booktrackerGirl)](https://git.io/streak-stats) <br>
+Learning to use Github a bit. My contribution so far: <br>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=booktrackerGirl) <br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=booktrackerGirl)
 
 Sometimes I also like to Kaggle in my spare time. Though more privately, for my self-development work. It's cool to see other people's work and learn from there too.
