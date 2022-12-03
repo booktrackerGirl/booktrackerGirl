@@ -1,13 +1,19 @@
 <div id="badges">
   <div align="center">
     <a href="https://www.linkedin.com/in/aditi-dutta-22a299135/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/-aditidutta-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/aditi_d10">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <img src="https://img.shields.io/badge/-aditi__d10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
     <a href="https://www.kaggle.com/aditidutta">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+      <img src="https://img.shields.io/badge/-aditidutta-20BEFF?style=flat-square&labelColor=20BEFF&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+    <a href="https://www.dropbox.com/s/p8f4luielst1v67/AditiDutta_CV.pdf?dl=0">
+      <img src="https://img.shields.io/badge/-Resume-332B40?style=flat-square&labelColor=332B40&logo=Resume&logoColor=white" alt="Resume Badge"/>
+    </a>
+    <a href="https://www.instagram.com/_.the.rising.phoenix._/?fbclid=IwAR2CmxGw7Y1MLvC_85qR5MTf-Qpba8iQhBwoFHEmMXkEINiL_az0d_32pik">
+      <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Resume Badge"/>
     </a>
   </div>
 </div>
@@ -19,9 +25,11 @@
 
 ### Hi there 👋
 
-I'm Aditi. 
+I'm Aditi. Thank you for visiting my profile. 😊
 
 #### I am a Computational Social Science research student, specifically working on Natural Language Processing.
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I’m currently working on my research on online misogyny.
 - 🌱 I’m currently learning to balance between working for my research and learning cool stuffs.
@@ -31,6 +39,8 @@ I'm Aditi.
 - 📫 How to reach me: I'm omnipresent. 🤓 (Just kidding! Feel free to connect through the platforms listed above.)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like listening to K-pop music.
+
+<h3 align="left">:heart: Let's get connected!</h3>
 
 I like to work with Python, especially using Jupyter notebook.<br>
 
@@ -57,5 +67,6 @@ My research interests are: natural language processing, data science, political 
 
 Here are some ideas to get you started:
 https://github.com/alexandresanlim/Badges4-README.md-Profile#-github-stats-
+https://github.com/abhisheknaiidu/awesome-github-profile-readme#anime-
 
 -->
