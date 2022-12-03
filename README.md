@@ -1,16 +1,20 @@
 <div id="badges">
-  <a href="https://www.linkedin.com/in/aditi-dutta-22a299135/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/aditi_d10">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/aditidutta">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
+  <div align="center">
+    <a href="https://www.linkedin.com/in/aditi-dutta-22a299135/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/aditi_d10">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+    <a href="https://www.kaggle.com/aditidutta">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
+    </a>
+  </div>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=booktrackerGirl&style=flat-square&color=blue" alt=""/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=booktrackerGirl&style=flat-square&color=blue" alt=""/>
+</div>
   	
 
 ### Hi there 👋
