@@ -19,6 +19,12 @@
 </div>
 
 <div align="center">
+  Aditi Dutta
+  <a itemprop="sameAs" content="https://orcid.org/0000-0002-1531-5510" href="https://orcid.org/0000-0002-1531-5510" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">
+  </a>
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=booktrackerGirl&style=flat-square&color=blue" alt=""/>
 </div>
   	
@@ -28,6 +34,8 @@
 I'm Aditi. Thank you for visiting my profile. 😊
 
 #### I am a Computational Social Science research student, specifically working on Natural Language Processing.
+
+I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the list of contributers [here](https://github.com/alan-turing-institute/the-turing-way#contributors)!
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
