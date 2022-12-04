@@ -1,7 +1,7 @@
 <div id="badges">
   <div align="center">
     <a href="https://www.linkedin.com/in/aditi-dutta-22a299135/">
-      <img src="https://img.shields.io/badge/-aditidutta-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/-Aditi Dutta-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/aditi_d10">
       <img src="https://img.shields.io/badge/-aditi__d10-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -9,8 +9,8 @@
     <a href="https://www.kaggle.com/aditidutta">
       <img src="https://img.shields.io/badge/-aditidutta-20BEFF?style=flat-square&labelColor=20BEFF&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
-    <a href="https://www.dropbox.com/s/p8f4luielst1v67/AditiDutta_CV.pdf?dl=0">
-      <img src="https://img.shields.io/badge/-Resume-332B40?style=flat-square&labelColor=332B40&logo=Resume&logoColor=white" alt="Resume Badge"/>
+    <a href="https://eprofile.exeter.ac.uk/aditidutta/">
+      <img src="https://img.shields.io/badge/-Aditi Dutta-332B40?style=flat-square&labelColor=332B40&logo=University&logoColor=white" alt="Resume Badge"/>
     </a>
     <a href="https://www.instagram.com/_.the.rising.phoenix._/?fbclid=IwAR2CmxGw7Y1MLvC_85qR5MTf-Qpba8iQhBwoFHEmMXkEINiL_az0d_32pik">
       <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Resume Badge"/>
@@ -40,7 +40,7 @@ I'm Aditi. Thank you for visiting my profile. 😊
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like listening to K-pop music.
 
-<h3 align="left">:heart: Let's get connected!</h3>
+<h3 align="left"> Let's get connected!</h3>
 
 I like to work with Python, especially using Jupyter notebook.<br>
 
