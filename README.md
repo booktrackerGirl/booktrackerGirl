@@ -71,6 +71,8 @@ Sometimes I also like to Kaggle in my spare time. Though more privately, for my 
 My research interests are: natural language processing, data science, political social science, gender politics, computational methods and social data analysis. I love working in interdisciplinary fields, and bringing out the best of all the fields involved.
 
 
+![snake gif](https://github.com/booktrackerGirl/booktrackerGirl/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **booktrackerGirl/booktrackerGirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
