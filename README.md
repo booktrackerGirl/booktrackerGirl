@@ -46,7 +46,7 @@ I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app
 - 💬 Ask me about my project.
 - 📫 How to reach me: I'm omnipresent. 🤓 (Just kidding! Feel free to connect through the platforms listed above.)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like listening to K-pop music.
+- ⚡ Fun fact: I like listening to K-pop music. I enjoy playing games and doing outdoor activities (even though I'm not good at any of those 🥲). 
 
 <h3 align="left"> Let's get connected!</h3>
 
