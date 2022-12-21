@@ -35,7 +35,7 @@ I'm Aditi. Thank you for visiting my profile. 😊
 
 #### I am a Computational Social Science research student, specifically working on Natural Language Processing.
 
-I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the list of contributers [here](https://github.com/alan-turing-institute/the-turing-way#contributors)!
+I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the [list of contributers](https://github.com/alan-turing-institute/the-turing-way#contributors) and [records](https://the-turing-way.netlify.app/afterword/contributors-record.html#aditi-dutta)!
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
