@@ -68,7 +68,17 @@ Sometimes I also like to Kaggle in my spare time. Though more privately, for my 
 
 
 ### Research Interests
-My research interests are: natural language processing, data science, political social science, gender politics, computational methods and social data analysis. I love working in interdisciplinary fields, and bringing out the best of all the fields involved.
+My research interests are: natural language processing, data science, political social science, gender politics, computational methods and social data analysis. I love working in interdisciplinary fields, and bringing out the best of all the fields involved. 
+
+## Collaborative Interests
+I like to explore and challenge myself to work on various projects and enhance my skills from there, not just my soft skills but also transferable skills for future works. I love sharing and gaining knowledge with people, from various backgrounds and experience levels. Discussing with people about their works and mine not only helps me learn more about their works and interests, but also allows me to receive feedback from them about mine. Which is why, collaborative environment works best for me. I learn so much from people around me. 
+<br>
+
+One programme which really helped me get introduced to this was the Turing [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) where I got to work with other researchers in line with organisations from industry, government, and the third sectors. My recent works with them are listed below:
+1. <b>DSG December 2021</b> <br> 
+Topic: <i>Monitoring in Clinical Trials: Identifying poor performance at recruitment sites participating in clinical trial research</i> <br> 
+Final Report: Data Study Group team. (2022, September 13). Data Study Group Final Report: MRC Clinical Trials Unit, UCL. Zenodo. <i>https://doi.org/10.5281/zenodo.7075637</i>
+2. <b>DSG December 2022</b> <br> 
 
 
 ![snake gif](https://github.com/booktrackerGirl/booktrackerGirl/blob/output/github-contribution-grid-snake.svg)
