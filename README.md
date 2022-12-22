@@ -10,10 +10,10 @@
       <img src="https://img.shields.io/badge/-aditidutta-20BEFF?style=flat-square&labelColor=20BEFF&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
     <a href="https://eprofile.exeter.ac.uk/aditidutta/">
-      <img src="https://img.shields.io/badge/-Aditi Dutta-332B40?style=flat-square&labelColor=332B40&logo=University&logoColor=white" alt="Resume Badge"/>
+      <img src="https://img.shields.io/badge/-Aditi Dutta-332B40?style=flat-square&labelColor=332B40&logo=University&logoColor=white" alt="Profile Badge"/>
     </a>
     <a href="https://www.instagram.com/_.the.rising.phoenix._/?fbclid=IwAR2CmxGw7Y1MLvC_85qR5MTf-Qpba8iQhBwoFHEmMXkEINiL_az0d_32pik">
-      <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Resume Badge"/>
+      <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
   </div>
 </div>
