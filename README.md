@@ -75,7 +75,7 @@ I like to explore and challenge myself to work on various projects and enhance m
 <br>
 One programme which really helped me get introduced to this was the Turing [Data Study Group](https://www.turing.ac.uk/collaborate-turing/data-study-groups) where I got to work with other researchers in line with organisations from industry, government, and the third sectors. My recent works with them are listed below: 
 1. <b>DSG December 2021</b> <br> Topic: <i>Monitoring in Clinical Trials: Identifying poor performance at recruitment sites participating in clinical trial research</i> <br> Challenge Owner: <i>Medical Research Council Clinical Trials Unit (MRC CTU) at University College London</i>
-2. <b>DSG December 2022</b> <br> Topic: <i>Understanding behaviour of transport user</i> <br> Challenge Owner: <i>Department for Transport (DfT)</i>
+2. <b>DSG December 2022</b> <br> Topic: <i>Understanding and improving transport for the user</i> <br> Challenge Owner: <i>Department for Transport (DfT)</i>
 
 
 ![snake gif](https://github.com/booktrackerGirl/booktrackerGirl/blob/output/github-contribution-grid-snake.svg)
