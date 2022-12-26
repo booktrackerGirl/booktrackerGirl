@@ -19,6 +19,12 @@
 </div>
 
 <div align="center">
+  <a href="https://www.dropbox.com/s/p8f4luielst1v67/AditiDutta_CV.pdf?dl=0">
+      <img src="https://img.shields.io/badge/-Aditi Dutta CV-D3D3D3?style=flat&labelColor=D3D3D3&logo=Resume&logoColor=white" alt="Resume"/>
+    </a>
+</div>
+
+<div align="center">
   Aditi Dutta
   <a itemprop="sameAs" content="https://orcid.org/0000-0002-1531-5510" href="https://orcid.org/0000-0002-1531-5510" target="orcid.widget" rel="noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">
   </a>
