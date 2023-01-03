@@ -65,7 +65,7 @@ Learning to use Github a bit. My contribution so far: <br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=booktrackerGirl) <br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=booktrackerGirl)
 
-Sometimes I also like to Kaggle in my spare time. Though more privately, for my self-development work. It's cool to see other people's work and learn from there too.
+Sometimes I also like to Kaggle in my spare time. Though more privately, for my self-development work. It's cool to see other people's work and learn from there too. I was a [grantee](https://www.kaggle.com/bipoc2021-project-showcase) at the 2021 BIPOC Grant Program, which got me intrigued to fully utilize the platform.
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aditidutta/competition/light)
 ![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aditidutta/dataset/light)
