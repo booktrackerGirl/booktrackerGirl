@@ -43,6 +43,8 @@ I'm Aditi. Thank you for visiting my profile. 😊
 
 I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the [list of contributers](https://github.com/alan-turing-institute/the-turing-way#contributors) and [records](https://the-turing-way.netlify.app/afterword/contributors-record.html#aditi-dutta)!
 
+As a participant in [OLS-7](https://openlifesci.org/ols-7.html), I am working on creating an [Open Science platform for humanities and computational social scientists](https://github.com/booktrackerGirl/Open-platform-for-social-science-researchers). My project can be found listed on the OLS website [here](https://openlifesci.org/ols-7/projects-participants/#projects).
+
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I’m currently working on my research on online misogyny.
