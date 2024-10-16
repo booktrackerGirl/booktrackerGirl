@@ -15,6 +15,9 @@
     <a href="https://www.instagram.com/_.the.rising.phoenix._/?fbclid=IwAR2CmxGw7Y1MLvC_85qR5MTf-Qpba8iQhBwoFHEmMXkEINiL_az0d_32pik">
       <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
+    <a href="https://scholar.google.com/citations?user=jfR2SlgAAAAJ&hl=en">
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width:7em;margin-right:.5em;" alt="Google Scholar Badge"/>
+    </a>
   </div>
 </div>
 
@@ -41,9 +44,11 @@ I'm Aditi. Thank you for visiting my profile. 😊
 
 #### I am a Computational Social Science research student, specifically working on Natural Language Processing.
 
-I recently contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the [list of contributers](https://github.com/alan-turing-institute/the-turing-way#contributors) and [records](https://the-turing-way.netlify.app/afterword/contributors-record.html#aditi-dutta)!
+I have contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/welcome)</b> across different chapters of the project. You can find my name in the [list of contributers](https://github.com/alan-turing-institute/the-turing-way#contributors) and [records](https://the-turing-way.netlify.app/afterword/contributors-record.html#aditi-dutta)!
 
-As a participant in [OLS-7](https://openlifesci.org/ols-7.html), I am working on creating an [Open Science platform for humanities and computational social scientists](https://github.com/booktrackerGirl/Open-platform-for-social-science-researchers). My project can be found listed on the OLS website [here](https://openlifesci.org/ols-7/projects-participants/#projects).
+As a participant in [OLS-7](https://openlifesci.org/ols-7.html), I worked on creating an [Open Science platform for humanities and computational social scientists](https://github.com/booktrackerGirl/Open-platform-for-social-science-researchers). My project can be found listed on the OLS website [here](https://openlifesci.org/ols-7/projects-participants/#projects).
+
+Currently, I am a [Community Awardee](https://www.turing.ac.uk/people/doctoral-students/aditi-dutta) of the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) for the cohort of 2024. Looking forward to connect with the experts and peers from the Alan Turing Institute and collaborate on projects.
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
@@ -54,7 +59,7 @@ As a participant in [OLS-7](https://openlifesci.org/ols-7.html), I am working on
 - 💬 Ask me about my project.
 - 📫 How to reach me: I'm omnipresent. 🤓 (Just kidding! Feel free to connect through the platforms listed above.)
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like listening to K-pop music. I enjoy playing games and doing outdoor activities (even though I'm not good at any of those 🥲). 
+- ⚡ Fun fact: I like listening to music and dancing, especially to Indian classical music. I enjoy playing games and doing outdoor activities such as hiking. 
 
 <h3 align="left"> Let's get connected!</h3>
 
