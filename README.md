@@ -9,7 +9,7 @@
     <a href="https://www.kaggle.com/aditidutta">
       <img src="https://img.shields.io/badge/-aditidutta-20BEFF?style=flat-square&labelColor=20BEFF&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
     </a>
-    <a href="https://eprofile.exeter.ac.uk/aditidutta/">
+    <a href="https://experts.exeter.ac.uk/38258-aditi-dutta">
       <img src="https://img.shields.io/badge/-Aditi Dutta-332B40?style=flat-square&labelColor=332B40&logo=University&logoColor=white" alt="Profile Badge"/>
     </a>
     <a href="https://www.instagram.com/_.the.rising.phoenix._/?fbclid=IwAR2CmxGw7Y1MLvC_85qR5MTf-Qpba8iQhBwoFHEmMXkEINiL_az0d_32pik">
