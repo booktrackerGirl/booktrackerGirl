@@ -22,7 +22,7 @@
 </div>
 
 <div align="center">
-  <a href="https://www.dropbox.com/s/p8f4luielst1v67/AditiDutta_CV.pdf?dl=0">
+  <a href="https://www.dropbox.com/scl/fi/gtoc4kb8akdeguocxhnno/AditiDutta_CV.pdf?rlkey=98x29nzh9zc9h96aonp1da0sl&e=1&dl=0">
       <img src="https://img.shields.io/badge/-Aditi Dutta CV-D3D3D3?style=flat&labelColor=D3D3D3&logo=Resume&logoColor=white" alt="Resume"/>
     </a>
 </div>
