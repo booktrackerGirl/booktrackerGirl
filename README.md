@@ -48,7 +48,7 @@ I have contributed to <b>[The Turing Way](https://the-turing-way.netlify.app/wel
 
 As a participant in [OLS-7](https://openlifesci.org/ols-7.html), I worked on creating an [Open Science platform for humanities and computational social scientists](https://github.com/booktrackerGirl/Open-platform-for-social-science-researchers). My project can be found listed on the OLS website [here](https://openlifesci.org/ols-7/projects-participants/#projects).
 
-Currently, I am a [Community Awardee](https://www.turing.ac.uk/people/doctoral-students/aditi-dutta) of the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) for the cohort of 2024. Looking forward to connect with the experts and peers from the Alan Turing Institute and collaborate on projects.
+I was also a [Community Awardee](https://www.turing.ac.uk/people/doctoral-students/aditi-dutta) of the [Turing Enrichment Scheme](https://www.turing.ac.uk/work-turing/studentships/enrichment) for the cohort of 2024-25. I look forward to connect with the experts and peers to collaborate on projects.
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
