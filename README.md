@@ -16,7 +16,7 @@
       <img src="https://img.shields.io/badge/-__.the.rising.phoenix.__-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
     <a href="https://scholar.google.com/citations?user=jfR2SlgAAAAJ&hl=en">
-      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width:7em;height:1.99em;" alt="Google Scholar Badge"/>
+      <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" style="width:7em;height:1.28em;" alt="Google Scholar Badge"/>
     </a>
   </div>
 </div>
